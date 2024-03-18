@@ -1,1 +1,3 @@
 hello today is monday, first day of work
+
+this is for checking git merge conflict
