@@ -1,2 +1,4 @@
 hello world
 learning git versioning
+
+this is editing the file and committing changes on git via bash terminal
