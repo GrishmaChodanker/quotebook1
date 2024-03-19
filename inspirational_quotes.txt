@@ -5,3 +5,5 @@ adding one more line for checking git merge conflict
 
 today is tuesday
 adding one line and pushing on github
+
+you only live once :)
